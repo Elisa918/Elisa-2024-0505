@@ -5,5 +5,5 @@ matplotlib
 numpy
 pandas
 openpyxl
-pandas-datareader
+pandas_datareader
 yfinance
