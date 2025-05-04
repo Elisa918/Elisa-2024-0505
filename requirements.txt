@@ -7,3 +7,4 @@ pandas
 openpyxl
 pandas_datareader
 yfinance
+jinja2
